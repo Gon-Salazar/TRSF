@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AREA Y PERIMETRO/1.0.0": {
+        "runtime": {
+          "AREA Y PERIMETRO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AREA Y PERIMETRO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

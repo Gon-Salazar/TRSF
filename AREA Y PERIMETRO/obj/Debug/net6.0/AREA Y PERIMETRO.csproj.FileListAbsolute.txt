@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\bin\Debug\net6.0\AREA Y PERIMETRO.exe
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\bin\Debug\net6.0\AREA Y PERIMETRO.deps.json
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\bin\Debug\net6.0\AREA Y PERIMETRO.runtimeconfig.json
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\bin\Debug\net6.0\AREA Y PERIMETRO.dll
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\bin\Debug\net6.0\AREA Y PERIMETRO.pdb
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.AssemblyInfo.cs
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.dll
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\refint\AREA Y PERIMETRO.dll
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.pdb
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\AREA Y PERIMETRO.genruntimeconfig.cache
+C:\Users\lenovo\Documents\TRSF\AREA Y PERIMETRO\obj\Debug\net6.0\ref\AREA Y PERIMETRO.dll

@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\TRSF\binarios\bin\Debug\net6.0\binarios.exe
+C:\Users\lenovo\Documents\TRSF\binarios\bin\Debug\net6.0\binarios.deps.json
+C:\Users\lenovo\Documents\TRSF\binarios\bin\Debug\net6.0\binarios.runtimeconfig.json
+C:\Users\lenovo\Documents\TRSF\binarios\bin\Debug\net6.0\binarios.dll
+C:\Users\lenovo\Documents\TRSF\binarios\bin\Debug\net6.0\binarios.pdb
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.AssemblyInfo.cs
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.dll
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\refint\binarios.dll
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.pdb
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\binarios.genruntimeconfig.cache
+C:\Users\lenovo\Documents\TRSF\binarios\obj\Debug\net6.0\ref\binarios.dll
