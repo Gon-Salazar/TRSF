@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.AssemblyInfo.cs
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\bin\Debug\net6.0\OPERACIONES.exe
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\bin\Debug\net6.0\OPERACIONES.deps.json
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\bin\Debug\net6.0\OPERACIONES.runtimeconfig.json
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\bin\Debug\net6.0\OPERACIONES.dll
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\bin\Debug\net6.0\OPERACIONES.pdb
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.dll
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\refint\OPERACIONES.dll
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.pdb
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\OPERACIONES.genruntimeconfig.cache
+C:\Users\lenovo\Documents\TRSF\OPERACIONES\obj\Debug\net6.0\ref\OPERACIONES.dll

@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\TRSF\CASA\bin\Debug\net6.0\CASA.exe
+C:\Users\lenovo\Documents\TRSF\CASA\bin\Debug\net6.0\CASA.deps.json
+C:\Users\lenovo\Documents\TRSF\CASA\bin\Debug\net6.0\CASA.runtimeconfig.json
+C:\Users\lenovo\Documents\TRSF\CASA\bin\Debug\net6.0\CASA.dll
+C:\Users\lenovo\Documents\TRSF\CASA\bin\Debug\net6.0\CASA.pdb
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.AssemblyInfo.cs
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.dll
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\refint\CASA.dll
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.pdb
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\CASA.genruntimeconfig.cache
+C:\Users\lenovo\Documents\TRSF\CASA\obj\Debug\net6.0\ref\CASA.dll

@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\TRSF\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\TRSF\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\TRSF\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\TRSF\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\lenovo\Documents\TRSF\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.csproj.CoreCompileInputs.cache
