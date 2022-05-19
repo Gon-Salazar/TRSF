@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.AssemblyInfo.cs
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\TRSF\carros usados\bin\Debug\net6.0\carros usados.exe
+C:\Users\lenovo\Documents\TRSF\carros usados\bin\Debug\net6.0\carros usados.deps.json
+C:\Users\lenovo\Documents\TRSF\carros usados\bin\Debug\net6.0\carros usados.runtimeconfig.json
+C:\Users\lenovo\Documents\TRSF\carros usados\bin\Debug\net6.0\carros usados.dll
+C:\Users\lenovo\Documents\TRSF\carros usados\bin\Debug\net6.0\carros usados.pdb
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.dll
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\refint\carros usados.dll
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.pdb
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.genruntimeconfig.cache
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\ref\carros usados.dll
