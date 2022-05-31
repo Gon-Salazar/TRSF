@@ -14,5 +14,6 @@ public class Carro
     public int Seats { get; set;}
     public decimal New_Price { get; set;}
     public decimal Price { get; set;}
+    public int ID {get; set;}
 
 }

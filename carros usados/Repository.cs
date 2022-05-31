@@ -1,16 +1,16 @@
 namespace Carros;
 public class Repository
 {     
-    public List<Carros> ListCarros { get; set; }
+    public List<Carro> ListCarros { get; set; }
     private bool LoadedFile {get; set;} = false;
    
     public void LoadFile(String filename)
     { 
         try 
         { 
-            ListCarros = new List<Carros>();
-            var listMovieStrings = FileReader.ReadFile(filename);               
-            foreach (var item in listMovieStrings.Skip(1).Take(20))
+            ListCarros = new List<Carro>();
+            var listCarroStrings = FileReader.ReadFile(filename);               
+            foreach (var item in listCarroStrings.Skip(1).Take(20))
             {
               //  Console.WriteLine(item);
                 var parser = new Parser();
@@ -34,7 +34,7 @@ public class Repository
         return ListCarros;
     }
 
-    public List<Carro> GetMovieByName (String Name)
+    public List<Carro> GetCarroByName (String Name)
     { 
         Console.WriteLine("busacando nombre de carro");
         if(LoadedFile == false)

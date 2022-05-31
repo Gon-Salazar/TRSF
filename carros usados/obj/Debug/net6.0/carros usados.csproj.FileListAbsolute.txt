@@ -13,3 +13,5 @@ C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\refint\carros usad
 C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.pdb
 C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.genruntimeconfig.cache
 C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\ref\carros usados.dll
+C:\Users\lenovo\Documents\TRSF\carros usados\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\TRSF\carros usados\obj\Debug\net6.0\carros usados.csproj.CopyComplete
